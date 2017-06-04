@@ -1,0 +1,13 @@
+[
+  {"@delete":["name"]},
+  {"@insert":""},
+
+  "valueToInsert",
+
+  {"@insert":"value","@pos":-1},
+
+  {
+    "@match":"object value to locate",
+    "key":"value"
+  }
+]

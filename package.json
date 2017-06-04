@@ -1,0 +1,23 @@
+{
+  "name": "jsup",
+  "version": "1.0.0",
+  "description": "Json Update cmd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossillingworth/jsup.git"
+  },
+  "keywords": [
+    "JSON",
+    "update"
+  ],
+  "author": "Ross Illingworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rossillingworth/jsup/issues"
+  },
+  "homepage": "https://github.com/rossillingworth/jsup#readme"
+}

@@ -2,6 +2,8 @@
 // In objects, everything is named, so we can address values directly
 //=======================================================================
 //
+// [@extends]: specifies file to update
+//
 // [@insert]: default, append values to this object
 //
 // @inc: only works on numbers

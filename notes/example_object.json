@@ -4,6 +4,16 @@
   "aNumber":1,
   "aBooleanTrue":false,
   "aBooleanFalse":false,
-  "anArray":[],
-  "anObject":{}
+  "anArray":[
+    null,
+    123,
+    "aString",
+    true,
+    false,
+    ["..."],
+    {"...":""}
+  ],
+  "anObject":{
+    "and so it goes":""
+  }
 }

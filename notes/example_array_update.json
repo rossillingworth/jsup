@@ -1,3 +1,17 @@
+//
+// [@insert] the default, simply append values to the end of the array
+// @insert{pos:x} insert value/object at position indicated
+//
+// @match: find array object that ....
+//
+// @update:[{@match}]: find and update specified object,
+//
+// @delete array value
+// @delete:[{@match}] array value object by @match
+//
+// @sort:[], sort by named func, or pass in a func
+//
+//
 [
   {"@delete":["name"]},
   {"@insert":""},

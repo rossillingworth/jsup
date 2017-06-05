@@ -1,3 +1,16 @@
+//
+// In objects, everything is named, so we can address values directly
+//=======================================================================
+//
+// [@insert]: default, append values to this object
+//
+// @inc: only works on numbers
+//
+// @match
+//
+// @delete
+//
+
 {
   "@delete":["name"],
 

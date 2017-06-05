@@ -1,0 +1,10 @@
+{
+  "name":"JSUP Schema",
+  "desc":"declarative update of JSON documents"
+
+  "properties":{
+    "@extends":{
+
+    }
+  }
+}

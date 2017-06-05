@@ -1,0 +1,9 @@
+{
+  "aNull":null,
+  "aString":"just a string",
+  "aNumber":1,
+  "aBooleanTrue":false,
+  "aBooleanFalse":false,
+  "anArray":[],
+  "anObject":{}
+}
